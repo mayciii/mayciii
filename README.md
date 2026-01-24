@@ -1,16 +1,21 @@
-## Hi there 👋
+![Banner]([https://your-image-link-here](https://ph.pinterest.com/pin/59883870039794907/))
 
-<!--
-**mayciii/mayciii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm May Sigrid Dimaano  
 
-Here are some ideas to get you started:
+🎓 BS Information Technology student   
+💻 Passionate about Python, Java, and Web Development  
+🌱 Currently learning Flask, database integration, and modern UI design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Working on projects like:
+- Smart Blood Donor Eligibility Screening System (Python, Tkinter)    
+- SABTRACK – Barangay Waste Tracking System  
+- Barangay Equipment Return Tracking System (Java)  
+  
+
+📫 How to reach me:  
+- GitHub: https://github.com/mayciii  
+- Email: sigriddimaano@gmail.com  
+
+😄 Pronouns: She/Her  
+⚡ Fun fact: I enjoy turning school projects into real-world systems 🚀  
+
