@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/mayciii/mayciii/main/banner.jpg)
 
 
 ## Hi there 👋 I'm May Sigrid Dimaano  
