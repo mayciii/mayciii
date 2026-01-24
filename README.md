@@ -10,7 +10,9 @@
 🛠️ Working on projects like:
 - Smart Blood Donor Eligibility Screening System (Python, Tkinter)    
 - SABTRACK – Barangay Waste Tracking System  
-- Barangay Equipment Return Tracking System (Java)  
+- Barangay Equipment Return Tracking System (Java)
+
+🚀 Currently: Actively organizing and committing my projects to GitHub to showcase my work and track my development progress.
   
 📫 How to reach me:  
 - Email: sigriddimaano@gmail.com  
