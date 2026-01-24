@@ -1,4 +1,4 @@
-![Banner]([https://your-image-link-here](https://ph.pinterest.com/pin/59883870039794907/))
+
 
 ## Hi there 👋 I'm May Sigrid Dimaano  
 
