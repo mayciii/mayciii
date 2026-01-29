@@ -4,7 +4,9 @@
 Hi there 👋 I’m May Sigrid Dimaano
 
 🎓 BS Information Technology Student
+
 💻 Interested in Python, Java, and Web Development
+
 🌱 Currently exploring Flask, database integration, and modern UI design
 
 🛠️ Projects I’ve Worked On
