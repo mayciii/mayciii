@@ -1,37 +1,26 @@
 ![Banner](https://raw.githubusercontent.com/mayciii/mayciii/main/banner.jpg)
 
 
-✨ Hello World! I’m May Sigrid Dimaano 👋
+Hi there 👋 I’m May Sigrid Dimaano
 
 🎓 BS Information Technology Student
-💻 Python • Java • Web Development
-🌱 Learning Flask, database integration, and modern UI design
+💻 Interested in Python, Java, and Web Development
+🌱 Currently exploring Flask, database integration, and modern UI design
 
-🧠 About Me
+🛠️ Projects I’ve Worked On
 
-I’m an IT student who enjoys building systems that solve real-world problems.
-Most of my projects begin as academic requirements, but I love refining them into practical, functional applications.
+Smart Blood Donor Eligibility Screening System (Python, Tkinter)
 
-🛠️ Projects
+SABTRACK – Barangay Waste Tracking System
 
-🚑 Smart Blood Donor Eligibility Screening System
-• Python | Tkinter
+Barangay Equipment Return Tracking System (Java)
 
-🗑️ SABTRACK – Barangay Waste Tracking System
+🚀 What I’m Up To
+I’m actively organizing and pushing my projects to GitHub to document my learning journey, improve my skills, and build a strong developer portfolio.
 
-📦 Barangay Equipment Return Tracking System
-• Java
-
-🚀 What I’m Currently Doing
-
-• Organizing and polishing my projects
-• Committing consistently on GitHub
-• Building a strong and meaningful developer portfolio
-
-📫 Contact
-
+📫 Let’s Connect
 📧 Email: sigriddimaano@gmail.com
 
 ⚡ Fun Fact
+I enjoy transforming academic projects into practical, real-world systems 🚀
 
-I enjoy turning “for compliance” school projects into real-world systems 🚀
