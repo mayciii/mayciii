@@ -8,8 +8,8 @@
 
 ### 🛠️ Projects I'm working on
 - **Smart Blood Donor Eligibility Screening System** (Python, Tkinter) – A GUI system that checks donor eligibility.  
-- **SABTRACK – Barangay Waste Tracking System** (Python, Flask, SQLite) – Helps residents track waste collection schedules and report issues.  
-- **Barangay Equipment Return Tracking System** (Java) – Tracks barangay equipment borrowing and returns efficiently.  
+- **SABTRACK: Waste Tracking and Reporting System for Barangay Sabang** (Python, Flask, SQLite) – Helps residents track waste collection schedules and report issues.  
+- **Console-Based Barangay Equipment  Borrowing and Return Tracking System** (Java) – Tracks barangay equipment borrowing and returns efficiently.  
 
 ---
 
