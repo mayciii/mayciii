@@ -22,8 +22,8 @@
 ---
 
 ### 📫 How to reach me
-- **Email:** [your email here]  
-- **LinkedIn:** [your LinkedIn link]  
+- **Email:** sigriddimaano@gmail.com
+- **LinkedIn:** www.linkedin.com/in/may-sigrid-dimaano-4052a43aa 
 - **Portfolio:** Coming soon!  
 
 ---
