@@ -16,7 +16,7 @@
 ### 🌟 Skills
 - **Programming Languages:** Python, Java, JavaScript  
 - **Web Development:** HTML, CSS, Flask  
-- **Database & Tools:** SQLite, Git, GitHub  
+- **Database & Tools:** SQLite, MongoDB, Git, GitHub  
 - **Other Interests:** Problem-solving, UI design, learning new tech  
 
 ---
