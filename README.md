@@ -2,6 +2,6 @@
 
 🎓 **BS Information Technology Student** at Batangas State University – Lipa Campus  
 💻 **Passionate about programming**: Python, Java, Web Development (HTML, CSS, JavaScript)  
-🌱 **Currently learning**: Flask, database integration, modern UI/UX design  
+🌱 **Currently learning**: Flask, React, database integration, modern UI/UX design  
 
 
