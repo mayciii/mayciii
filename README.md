@@ -43,7 +43,6 @@ else:
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sigriddimaano@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/may-sigrid-dimaano-4052a43aa)
-[![Shell](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/mayciii)
 </div>
 
 ---
