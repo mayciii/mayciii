@@ -24,10 +24,9 @@ I'm an Information Technology student at Batangas State University Lipa with an 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
-
+## 🌐 My Own Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://)
----
 
 
 ---
