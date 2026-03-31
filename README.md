@@ -1,10 +1,12 @@
 # Hey! I'm Mayciii
 
-I'm an Information Technology student at Batangas State University Lipa with an endless curiosity for all things tech. I firmly believe there's nothing in this world I can't learn—as long as I have a decent Wi-Fi connection. Whether I'm diving into software development or exploring AI, I just love the absolute freedom of being able to build whatever I can imagine from scratch. 
+I’m an Information Technology student at Batangas State University Lipa, fueled by curiosity and a constant urge to understand how things work and how to build them better. I treat the internet as my playground and Wi-Fi as my superpower. If I can imagine it, I’ll find a way to learn it, build it, and improve it. From coding projects to exploring AI, I enjoy the process of turning ideas into something real.
+
+Still learning. Always building. Never done.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Toolkit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -31,7 +33,7 @@ I'm an Information Technology student at Batangas State University Lipa with an 
 
 ---
 
-## 🐍 Pac-Man eats my contributions!
+## Watch Pac-Man devour my contributions 👾
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayie27/bayie27/output/pacman-contribution-graph-dark.svg">
