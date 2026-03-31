@@ -1,5 +1,5 @@
 name: Generate Pac-Man Animation
-
+ 
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -7,22 +7,22 @@ on:
   push:
     branches:
       - main
-
+ 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-
+ 
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate Pac-Man Animation
-        uses: hugopaula/github-contribution-grid-pacman@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_SLUG: bayie27
-
+      - name: Generate Pac-Man
+        uses: Platane/snk@v3
+        with:
+          github_user_name: bayie27
+          outputs: |
+            dist/pacman.svg?type=pacman
+            dist/pacman-dark.svg?type=pacman&palette=github-dark
+ 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
