@@ -1,5 +1,3 @@
-![mario](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
 # Hey! I'm Mayciii👋
 
 I’m an Information Technology student at Batangas State University Lipa, fueled by curiosity and a constant urge to understand how things work and how to build them better. I treat the internet as my playground and Wi-Fi as my superpower. If I can imagine it, I’ll find a way to learn it, build it, and improve it. From coding projects to exploring AI, I enjoy the process of turning ideas into something real.
