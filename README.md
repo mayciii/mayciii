@@ -31,7 +31,7 @@ I’m an Junior Information Technology student at Batangas State University Lipa
 ## 💻 My Socials
 [![Linkedin](https://skills.syvixor.com/api/icons?i=linkedin&perline=12&radius=40)](https://www.linkedin.com/in/maysigriddimaano/)
 [![Instagram](https://skills.syvixor.com/api/icons?i=instagram&perline=12&radius=40)](https://www.instagram.com/sigriddimaano_/?hl=en)
-[![Gmail](https://skills.syvixor.com/api/icons?i=gmail&perline=12&radius=40)]((mailto:sigriddimaano@gmail.com))
+[![Gmail](https://skills.syvixor.com/api/icons?i=gmail&perline=12&radius=40)](mailto:sigriddimaano@gmail.com)
 
 ---
 
